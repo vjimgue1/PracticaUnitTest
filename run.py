@@ -5,6 +5,7 @@ usuario tantas veces como quiera hasta que escriba la palabra
 salir.
 Ultima Modificación. 21/11/2024
 Autor. Gregorio Coronado Morón
+Refactorización por Víctor Jiménez Guerrero
 """
 from app.main import main
 

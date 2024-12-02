@@ -1,3 +1,7 @@
+"""
+Refactorizado por Victor Jiménez Guerrero
+"""
+
 from app.charfun import esPalindromo
 
 def main():

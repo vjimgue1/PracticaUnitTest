@@ -1,6 +1,8 @@
 """
 Función que verifica si una cadena es palíndroma.
 Ignora espacios, mayúsculas y tildes.
+
+Refactorizado por Victor Jiménez Guerrero
 """
 def esPalindromo(cadena):
     # Comprobamos que la variable de entrada es una string
